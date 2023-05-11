@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75973479444",
+    "project_id": "clickin-26dc0",
+    "storage_bucket": "clickin-26dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75973479444:android:b75c9e400a8720ff816b01",
+        "android_client_info": {
+          "package_name": "com.example.clickin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75973479444-7p5de0m60oo4uvrr9v4b3bn0p5il2obj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_hlRXhEvGlapYqNDR4hn5nCh4iS6tyb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75973479444-7p5de0m60oo4uvrr9v4b3bn0p5il2obj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
